@@ -1,3 +1,5 @@
+<img src="pixel GIF by haydiroket (Mert Keskin).gif" width="1000" height="300">
+
 # 📜 Certifications
 
 A collection of certifications earned throughout my journey in cybersecurity, networking, system administration, and security operations.
