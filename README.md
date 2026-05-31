@@ -18,7 +18,7 @@ Tools and utilities developed throughout my cybersecurity learning journey, focu
 ## 🚀 Projects
 | Tool                                                                  | Purpose                                  |
 | --------------------------------------------------------------------- | ---------------------------------------- |
-| [Log Analyzer](https://github.com/matrix-7337/THE-MATRIX-TOOL)        | Simple Python Learning Project           |
+| [The MATRIX](https://github.com/matrtix-7337/THE-MATRIX-TOOL)         | Simple Python Learning Project           |
 | [Next Tools](https://github.com/YOUR_USERNAME/IOC-Extractor)          | ---------------------------------------- |
 
 ---
